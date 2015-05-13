@@ -1,3 +1,4 @@
+/// <reference path="../typings/mocha/mocha.d.ts"/>
 'use strict';
 var assert = require('assert');
 var darwinjs = require('../');
